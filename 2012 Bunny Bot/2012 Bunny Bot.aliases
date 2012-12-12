@@ -1,10 +1,6 @@
 [My Computer]
-<<<<<<< HEAD
 My Computer = "127.0.0.1"
-=======
-My Computer = "10.26.35.9"
->>>>>>> remove all PWM references to resolve errors (Darrell)
 
 [RT CompactRIO Target]
-RT CompactRIO Target = "10.26.35.2"
+RT CompactRIO Target = "10.26.36.2"
 
